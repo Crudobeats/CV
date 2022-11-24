@@ -1,0 +1,85 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
+}
+
+.title-1 {
+    padding-left: 1em;
+    text-align: left;
+    font-weight: 300;
+    font-size: larger;
+}
+.title-1 h1 {
+    font-weight: 500;
+    font-size: xx-large;
+    border-bottom: 1px solid darkgray;
+}
+
+.design {
+    padding-left: 1em;
+    text-align: left;
+    font-weight: 300;
+    font-size: larger;
+}
+
+.design h2 {
+    font-weight: 500;
+    font-size: xx-large;
+    border-bottom: 1px solid darkgray;
+}
+
+.study {
+    padding-left: 1em;
+    text-align: left;
+    font-weight: 300;   
+    font-size: larger; 
+}
+
+.study h2 {
+    font-weight: 500;
+    font-size: xx-large;
+    border-bottom: 1px solid darkgray;
+}
+
+.labor {
+    padding-left: 1em;
+    text-align: left;
+    font-weight: 300;   
+    font-size: larger; 
+}
+
+.labor h2 {
+    font-weight: 500;
+    font-size: xx-large;
+    border-bottom: 1px solid darkgray;
+}
+
+.softs {
+    padding-left: 1em;
+    text-align: left;
+    font-weight: 300;   
+    font-size: larger;
+}
+
+.softs h2 {
+    font-weight: 500;
+    font-size: xx-large;
+    border-bottom: 1px solid darkgray;  
+}
+
+.nets {
+    padding-left: 1em;
+    text-align: left;
+    font-weight: 300;   
+    font-size: larger;
+}
+
+.nets h3 {
+    font-weight: 500;
+    font-size: xx-large;
+    border-bottom: 1px solid darkgray;  
+}
+
+
+
+
